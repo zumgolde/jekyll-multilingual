@@ -1,4 +1,4 @@
-# Basic Skeleton for Small Web Projects
+# Jekyll Skeleton for Small Web Projects
 integrates the following plugins
 
     https://github.com/toshimaru/jekyll-toc A liquid filter plugin for Jekyll which generates a table of contents.
@@ -13,6 +13,3 @@ integrates the following plugins
 as well as support for
 
     https://simpleit.rocks/ruby/jekyll/tutorials/how-to-create-breadcrumbs-with-hierarchical-categories-in-jekyll/
-    
-    
-THANK THOSE PEOPLE!
